@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+ipykernel
+scikit-learn
+matplotlib
 -e .
